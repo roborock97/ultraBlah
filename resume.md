@@ -1,10 +1,7 @@
-**Ayden S**
-
- UT 84043
- 
- Phone: 801-867-5309
- 
- Email: yeppers12@gmail.com
+**Ayden S**  return
+ UT 84043  return
+ Phone: 801-867-5309  return
+ Email: yeppers12@gmail.com  return
 
 # Work Experience:
 
@@ -36,6 +33,6 @@ Responsibilities: Organize store by returning abandoned items and/or properly or
 
 Contact information: Jared, Manager or Steven, Store Manager - (801)-756-5449
 
- ## Other qualifications:
-    * -Lehi High School Graduate
-    * -ASE Student Certified
+ ##  Other qualifications:
+    * -Lehi High School Graduate  return
+    * -ASE Student Certified  return
