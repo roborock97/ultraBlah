@@ -1,9 +1,9 @@
 **Ayden S**
-UT 84043
-Phone: 801-867-5309
-Email: yeppers12@gmail.com
+> UT 84043
+> Phone: 801-867-5309
+> Email: yeppers12@gmail.com
 
-#Work Experience:
+# Work Experience:
 
 **Jimmy Johns**                           May 20, 2013 - August 2014
 496 N 990 W, American Fork UT 84003
